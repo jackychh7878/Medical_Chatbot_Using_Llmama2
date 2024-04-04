@@ -6,4 +6,7 @@ flask
 pypdf
 pymupdf
 python-dotenv
+langchain-pinecone
+langchain-openai
+langchain
 -e .
